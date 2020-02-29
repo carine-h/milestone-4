@@ -30,7 +30,8 @@ library(stringr)
 ```
 
 # Notes
-I figured out how to do this using a document citing @R-knitr
+Here is an in text citation: @R-knitr. 
+Here is my repo. ^[https://github.com/carine-h/milestone-4]
 
 # GT Table 
 ```{r gt}
@@ -55,8 +56,8 @@ fit <- lm(MPG ~ Weight, data = car)
 stargazer(fit, header = FALSE)
 ```
 
-#Bibliography
-          
+# Bibliography
+    
 
 
 
